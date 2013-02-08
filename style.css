@@ -1,25 +1,36 @@
+
+#header {
+top: 0px;
+background: url('Images/header.png');
+width: 700px;
+height: 150px;
+margin-left: auto;
+margin-right: auto;
+margin-top: 0px;
+}
+
 body {
-background-image:url('Background.jpg');
-background-repeat:no-repeat;
+background-image: url('Images/Background.jpg');
+background-repeat: no-repeat;
 background-attachment:fixed;
-background-color: #DDB2E8;
-color: #000000
+text-align: center;
 }
 
 div.transbox {
-width:800px;
-height:460px;
-margin:30px 50px;
-background-color:#ffffff;
-border:3px solid black;
-opacity: .9;
-filter: alpha(opacity=90);
+width: 800px;
+height: 460px;
+margin-left: auto;
+margin-right: auto;
+background-color: #ffffff;
+border: 3px solid black;
+opacity: 0.6;
+filter: alpha(opacity=60);
+opacity: 0.6;
 }
-
-div.transbox p{
-margin:30px 40px;
-font-weight:bold;
-color:#000000;
+div.transbox p {
+margin: 30px 40px;
+font-weight: bold;
+color: #000000;
 }
 
 #nav {
