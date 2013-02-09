@@ -33,7 +33,7 @@ color: #000000;
 }
 
 #nav {
-border-right: 1px dotted #52a5f2;
+font-size:20px;
 float: left;
 font-family: "Trebuchet MS", "Times New Roman", Times, serif;
 padding: 5% 0 5% 5%;
